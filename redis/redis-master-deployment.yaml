@@ -28,3 +28,4 @@ spec:
       dnsPolicy: ClusterFirstWithHostNet
       hostNetwork: true
       restartPolicy: Always
+
